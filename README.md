@@ -1,6 +1,8 @@
 # Not a Virus
 A simple tool to make your computer run 100x faster!
 
+For Windows Users Exclusively
+
 ## Description
 Are you a Windows user that finds your computer running too slow? Well Not a Virus is the program for you!
 
