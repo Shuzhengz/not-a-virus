@@ -14,7 +14,7 @@ This program also enables fortnite developer mode, it will run so fast that ever
 
 - It's like magic! -- ActuallyGod123
 - This makes me win all my games and flex on my friends! -- ☆THE FLORIDAMAN☆
-- My chromebook now runs Minecraft RTX! -- Some block on the street
+- My chromebook now runs Minecraft RTX! -- Some bloke on the street
 
 ## Requirements
 There are no requirements needed to run the program, all you need is a Windows computer!
