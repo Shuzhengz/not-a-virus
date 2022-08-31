@@ -17,7 +17,7 @@ This program also enables fortnite developer mode, it will run so fast that ever
 - My chromebook now runs Minecraft RTX! -- Some bloke on the street
 
 ## Requirements
-There are no requirements needed to run the program, all you need is a Windows computer!
+There are no requirements needed to run the program, all you need is a Windows computer, and a mouse to double click on the file!
 
 ## Licnese
 There is no license! It's like an iPhone 15 Pro Max Plus X Y 22 Ultimate Ultra, but free!
